@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--翻花手-->
+![image](https://github.com/mcc1095319343/mcc1095319343/video/fan-hua-shou.mp4
+
+<!--贪吃蛇-->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 <!--信息统计-->
