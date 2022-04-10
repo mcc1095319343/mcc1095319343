@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" ><Hello>
+Hello
 
 <!--图片-->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/image/flower.gif"/></div>
