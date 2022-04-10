@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <!--翻花手-->
 ![video](https://github.com/mcc1095319343/mcc1095319343/video/uname.mp4)
 <div align="center" ><img order-radius="100px" src="https://github.com/mcc1095319343/mcc1095319343/video/uname.mp4"/></div>
+<div align="center" ><img order-radius="100px" src="https://github.com/mcc1095319343/mcc1095319343/image/wuxian.jpg"/></div>
 <!--贪吃蛇-->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
