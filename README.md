@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/mcc1095319343/mcc1095319343/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 <!--信息统计-->
 <div align="center"> <img src="https://metrics.lecoq.io/mcc1095319343?template=classic&config.timezone=Asia%2FShanghai"> </div>
