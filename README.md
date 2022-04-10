@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--翻花手-->
-![video](https://github.com/mcc1095319343/mcc1095319343/video/uname.mp4)
+<!--图片-->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/image/flower.gif"/></div>
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/image/wuxian.jpg"/></div>
 
 <!--贪吃蛇-->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/contribution-snake/github-contribution-grid-snake.svg" /></div>
