@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--信息统计-->
 <div align="center"> <img src="https://metrics.lecoq.io/mcc1095319343?template=classic&config.timezone=Asia%2Fhangzhou"> </div>
-![Metrics](https://metrics.lecoq.io/mcc1095319343?template=classic&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/mcc1095319343?template=classic&config.timezone=Asia%mcc1095319343)
 
 
 <!--统计卡片-->
