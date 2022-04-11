@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=闪+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=闪+电+五+连+鞭!;接+化+发!;很+快+奥!;发+生+甚+么+事+了!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 
