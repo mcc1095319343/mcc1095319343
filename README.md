@@ -43,30 +43,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<!-- Dynamic Heatmap -->
-<table>
-  <tr>
-    <td colspan="2" >
-      <img src="https://cdn.jsdelivr.net/gh/mcc1095319343/Running/assets/github.svg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/mcc1095319343/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/mcc1095319343/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/mcc1095319343/Heatmap/OUT_FOLDER/bilibili.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/mcc1095319343/Heatmap/OUT_FOLDER/shanbay.svg" />
-    </td>
-  </tr>
-</table>
+
 
 
 
