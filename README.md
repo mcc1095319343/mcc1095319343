@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/image/flower.gif"/></div>
 
 <div align="center">
-  <a href="https://blog.csdn.net/qq_39299582?type=blog/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC2fK8EgtvG1_c3Nb0u9fhIg"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/35106877/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://blog.csdn.net/qq_39299582?type=blog/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-OrangeRed"></a>&emsp;
+  <!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mcc1095319343&right_color=violet" alt="访客统计" /></div>
+  <a href="https://www.youtube.com/channel/UC2fK8EgtvG1_c3Nb0u9fhIg"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://www.zhihu.com/people/xiao-xiao-you-ma-49/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-  <a href="https://user.qzone.qq.com/1095319343/"><img src="https://img.shields.io/badge/QQ-%E8%85%BE%E8%AE%AF-blue"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mcc1095319343" alt="访客统计" /></div>
+
 
 <!--贪吃蛇-->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/contribution-snake/github-contribution-grid-snake.svg" /></div>
