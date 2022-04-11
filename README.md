@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!--语言统计-->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcc1095319343&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-
+![Metrics](https://metrics.lecoq.io/mcc1095319343?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.title=true&config.timezone=Asia%2FShanghai)
 
 
 
