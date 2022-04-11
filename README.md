@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--闪电五连鞭-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=闪+电+五+连+鞭;蹭+到+我+右+眼;马+老+师+发+生+甚+么+事+了&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-
-
-
 
 <!--图片-->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/image/flower.gif"/></div>
