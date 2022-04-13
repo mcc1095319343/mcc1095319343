@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 
 
 
-# 👴 Hello
+# 🦄 QAQ
 
 <!--诗句卡-->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 
-# 🤺 Action
+# 🤺 Attribute
 
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
