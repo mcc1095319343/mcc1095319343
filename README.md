@@ -45,3 +45,8 @@ Here are some ideas to get you started:
 # 👴 Hello
 
 
+
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+
+
+# 🤺 Action
