@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--基础资料-->
-<div align="center"> <img src="https://metrics.lecoq.io/mcc1095319343?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/mcc1095319343?template=classic&config.timezone=Asia%2FHangzhou"> </div>
 
 <!--数据和语言统计-->
 <div align="center">
