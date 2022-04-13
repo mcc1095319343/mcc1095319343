@@ -43,13 +43,10 @@ Here are some ideas to get you started:
 </div>
 
 # 👴 Hello
-<p>✍️&nbsp;&nbsp;天生郭奉孝,豪杰冠群英。</p>
-<p>&emsp;&emsp;腹内藏经史,胸中隐甲兵。</p>
-<p>&emsp;&emsp;运筹如范蠡,决策似陈平。</p>
-<p>&emsp;&emsp;可惜身先丧,中原栋梁倾。</p>
 
 
 
+<!--诗句卡-->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 
