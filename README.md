@@ -41,18 +41,23 @@ Here are some ideas to get you started:
 
 # 🦄 QAQ
 
-<!--诗句卡-->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+<!--警句卡-->
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"></div>
+
+
+
+
 
 
 # 🤺 Attribute
-
+<!--连续提交代码天数记录卡-->
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcc1095319343&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 
+<!--基础资料-->
 <div align="center"> <img src="https://metrics.lecoq.io/mcc1095319343?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!--数据和语言统计-->
@@ -61,11 +66,14 @@ Here are some ideas to get you started:
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcc1095319343&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
+
+
+
 # 🦈 Demo
 <!--我自己的项目-->
 <div align="center">
 <a href="https://github.com/mcc1095319343/SUNet-Ver2-Gray-Link2Matlab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcc1095319343&repo=SUNet-Ver2-Gray-Link2Matlab&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcc1095319343&repo=SUNet-Ver2-Gray-Link2Matlab&theme=light&bg_color=EE82EE&hide_border=true" /></a>
 </div>
 
 
