@@ -59,6 +59,9 @@ Here are some ideas to get you started:
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+
 <!--我自己的项目-->
 <div align="center">
 <a href="https://github.com/mcc1095319343/SUNet-Ver2-Gray-Link2Matlab">
