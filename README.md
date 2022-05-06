@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--图片-->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/image/flower.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/image/flower.svg"/></div>
 
 <div align="center">
   <a href="https://space.bilibili.com/35106877/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
