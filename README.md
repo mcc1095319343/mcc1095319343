@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 <!--贪吃蛇-->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/mcc1095319343/mcc1095319343/contribution-snake/github-contribution-grid-snake.gif" /></div>
 
 
 
